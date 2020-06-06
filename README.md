@@ -6,7 +6,3 @@ Clock with Vanilla JavaScript.
 Live preview 👉 [https://andresparrago.github.io/clock-js/](https://andresparrago.github.io/clock-js/)
 
 ![Preview](gif.gif)
-
-
-
-Author: Andres Parra <andresparragn@gmail.com>
